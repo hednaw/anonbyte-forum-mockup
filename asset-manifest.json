@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/anonbyte-forum-mockup/static/css/main.52b84340.chunk.css",
+    "main.css": "/anonbyte-forum-mockup/static/css/main.60675f9c.chunk.css",
     "main.js": "/anonbyte-forum-mockup/static/js/main.1145b9ae.chunk.js",
     "main.js.map": "/anonbyte-forum-mockup/static/js/main.1145b9ae.chunk.js.map",
     "runtime-main.js": "/anonbyte-forum-mockup/static/js/runtime-main.a66c2d56.js",
@@ -10,13 +10,13 @@
     "static/js/3.dd0b58dd.chunk.js": "/anonbyte-forum-mockup/static/js/3.dd0b58dd.chunk.js",
     "static/js/3.dd0b58dd.chunk.js.map": "/anonbyte-forum-mockup/static/js/3.dd0b58dd.chunk.js.map",
     "index.html": "/anonbyte-forum-mockup/index.html",
-    "static/css/main.52b84340.chunk.css.map": "/anonbyte-forum-mockup/static/css/main.52b84340.chunk.css.map",
+    "static/css/main.60675f9c.chunk.css.map": "/anonbyte-forum-mockup/static/css/main.60675f9c.chunk.css.map",
     "static/js/2.f319eec4.chunk.js.LICENSE.txt": "/anonbyte-forum-mockup/static/js/2.f319eec4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a66c2d56.js",
     "static/js/2.f319eec4.chunk.js",
-    "static/css/main.52b84340.chunk.css",
+    "static/css/main.60675f9c.chunk.css",
     "static/js/main.1145b9ae.chunk.js"
   ]
 }
