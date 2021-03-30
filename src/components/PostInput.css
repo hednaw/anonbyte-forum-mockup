@@ -1,0 +1,36 @@
+.NameInput {
+	margin-bottom: 1%;
+	width: 20vw;
+	height: 1.3vw;
+}
+
+textarea {
+	resize: none;
+	width: 25vw;
+	height: 10vw;
+}
+
+.postButton {
+	background-color: #989fce;
+	margin-left: 1%;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	border: none;
+	color: whitesmoke;
+}
+
+.postButton:hover {
+	background-color: #6c7294;
+}
+
+.postButton:active {
+	background-color: #4e5999;
+}
+
+.postButton:disabled {
+	background-color: #c3c4c9;
+}
+
+.postButton:disabled:hover {
+	background-color: #c3c4c9;
+}
